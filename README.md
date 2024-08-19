@@ -1,5 +1,5 @@
 
-<h1 align="center">DamnYul's Github!</h4>
+<h1 align="center">DamYul's Github!</h4>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -26,5 +26,8 @@
   </a>
   <a href="https://www.instagram.com/ekadbf._1215/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/damn._.yul8-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />&nbsp
   </a>
 </div>
