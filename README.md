@@ -1,1 +1,1 @@
-<div FontSize = 200px, align = center>DamYul's GitHub!</div>
+![Damnyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAMNyul&show_icons=true&theme=radical)
