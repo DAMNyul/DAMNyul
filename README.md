@@ -1,1 +1,1 @@
-<div Size = 200px, align = center>DamYul's GitHub!</div>
+<div FontSize = 200px, align = center>DamYul's GitHub!</div>
