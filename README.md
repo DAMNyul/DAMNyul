@@ -20,7 +20,7 @@
 ***
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<div align="center" height ="100">
   <a href="https://velog.io/@damn_yul8/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
