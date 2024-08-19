@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?height=300text=DamYul's%GitHub!&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?height=120text=DamYul's%GitHub!&fontAlign=50)
