@@ -22,8 +22,4 @@
   <a href="https://velog.io/@damn_yul8/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="s24001@gsm.hs.kr">
-    <img
-      src="https://img.shields.io/badge/s24001@gsm.hs.kr?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
