@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?height=120text=DamYul's%GitHub!)
+<div Size = 200px align = center>DamYul's GitHub!</div>
