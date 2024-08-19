@@ -24,4 +24,7 @@
   <a href="https://velog.io/@damn_yul8/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
+  <a href="https://www.instagram.com/ekadbf._1215/">
+    <img src="https://img.shields.io/badge/Instagram-1EBC8F?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
+  </a>
 </div>
