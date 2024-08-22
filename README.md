@@ -5,6 +5,7 @@
 
 <div align = "center"> 
 <img src="https://img.shields.io/badge/Flutter-20232a.svg?style=for-the-badge&logo=Flutter&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=Dart&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Swift-20232a.svg?style=for-the-badge&logo=Swift&logoColor=F05138" />
 </div>
 
 ***
