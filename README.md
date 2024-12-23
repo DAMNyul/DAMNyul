@@ -4,7 +4,7 @@
 <h3 align="center">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="35" height="35" /></h3>
 
 <div align = "center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 </div>
 
 ***
